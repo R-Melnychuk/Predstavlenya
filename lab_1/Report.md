@@ -11,7 +11,7 @@ name = "Roman"
 
 print(f"{name} start programming at {datetime.now()}")
 ```
-   2. Програма вивела значення "Roman start programming at 2022-09-01 08:20:42.649536"
+   1. Програма вивела значення "Roman start programming at 2022-09-01 08:20:42.649536"
 
 - Результати виконання завдання 2;
     1. Створив файл з розширенням .ipynb, вставив код:
@@ -21,10 +21,10 @@ name = "Roman"
 
 print(f"{name} start programming at {datetime.now()}")
 ```
-   2. Програма вивела значення "Roman start programming at 2022-09-01 08:20:42.649536":
+   1. Програма вивела значення "Roman start programming at 2022-09-01 08:20:42.649536":
 ![alt text](https://i.imgur.com/wJmGVb1.jpg "Результат")
 
-   3. Додав ще одну комірку з типом Markdown, результат:
+   1. Додав ще одну комірку з типом Markdown, результат:
 ![alt text](https://i.imgur.com/AfvX0oD.jpg "Результат")
 
 ### Висновок: 
