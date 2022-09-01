@@ -4,27 +4,29 @@
 ---
 ### Виконання роботи
 - Результати виконання завдання 1;
-    1. Створив файл першої програми, вставив код:
+   Створив файл першої програми, вставив код:
 ```python
 from datetime import datetime
 name = "Roman"
 
 print(f"{name} start programming at {datetime.now()}")
 ```
-   1. Програма вивела значення "Roman start programming at 2022-09-01 08:20:42.649536"
+   Програма вивела значення "Roman start programming at 2022-09-01 08:20:42.649536"
 
 - Результати виконання завдання 2;
-    1. Створив файл з розширенням .ipynb, вставив код:
+   Створив файл з розширенням .ipynb, вставив код:
 ```python
 from datetime import datetime
 name = "Roman"
 
 print(f"{name} start programming at {datetime.now()}")
 ```
-   1. Програма вивела значення "Roman start programming at 2022-09-01 08:20:42.649536":
+   Програма вивела значення "Roman start programming at 2022-09-01 08:20:42.649536":
+
 ![alt text](https://i.imgur.com/wJmGVb1.jpg "Результат")
 
-   1. Додав ще одну комірку з типом Markdown, результат:
+   Додав ще одну комірку з типом Markdown, результат:
+
 ![alt text](https://i.imgur.com/AfvX0oD.jpg "Результат")
 
 ### Висновок: 
