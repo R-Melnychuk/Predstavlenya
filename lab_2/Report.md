@@ -7,26 +7,33 @@
     1. Основні типи даних:
 
     ![alt text](https://raw.githubusercontent.com/R-Melnychuk/Predstavlenya/main/screenshots/lab2_1.png "Результат виконання завдання")
+    
     2. Вбудовані константи:
 
     ![alt text](https://raw.githubusercontent.com/R-Melnychuk/Predstavlenya/main/screenshots/lab2_2.png "Результат виконання завдання")
+    
     3. Результат роботи вбудованих функцій:
 
     ![alt text](https://raw.githubusercontent.com/R-Melnychuk/Predstavlenya/main/screenshots/lab2_3.png "Результат виконання завдання")
+    
     4. Цикли:
 
     ![alt text](https://raw.githubusercontent.com/R-Melnychuk/Predstavlenya/main/screenshots/lab2_4.png "Результат виконання завдання")
+    
     5. Розгалуження:
 
     ![alt text](https://raw.githubusercontent.com/R-Melnychuk/Predstavlenya/main/screenshots/lab2_5.png "Результат виконання завдання")
+    
     6. Конструкція try->except->finally:
 
     ![alt text](https://raw.githubusercontent.com/R-Melnychuk/Predstavlenya/main/screenshots/lab2_6.png "Результат виконання завдання")
+    
     7. Контекст-менеджер with:
 
     ![alt text](https://raw.githubusercontent.com/R-Melnychuk/Predstavlenya/main/screenshots/lab2_7.png "Результат виконання завдання")
-    8. Lambda:
     
+    8. Lambda:
+
     ![alt text](https://raw.githubusercontent.com/R-Melnychuk/Predstavlenya/main/screenshots/lab2_8.png "Результат виконання завдання")
 
 ### Висновок: 
